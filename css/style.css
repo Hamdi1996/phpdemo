@@ -1,0 +1,71 @@
+body
+{
+    background-color: whitesmoke;
+    font-family:  'Tajawal',sans-serif;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+#mother 
+{
+    width: 100%;
+    font-size: 25px;
+}
+
+main {
+    float: left;
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+input 
+{
+    padding:4px ;
+    border: 1px solid black ;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+aside 
+{
+    text-align: center;
+    width: 355px;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 20px;
+    background-color:silver;
+    color: white;
+    float: right;
+    padding-top: 3rem;
+    padding-bottom: 15rem;
+}
+
+#tbl 
+{
+    width: 890px;
+    font-size: 20px;
+    
+}
+
+#tbl th 
+{
+    background-color: silver;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+img 
+{
+    border-radius: 50%;
+    width: 150px;
+} 
+aside button 
+{
+    width: 190px;
+    padding: 8px;
+    margin-top: 15px;
+    font-size: 17px;
+    font-weight: bold;
+}
